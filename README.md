@@ -1,1 +1,0 @@
-# What-Happens-When-The-Vector-of-Attention-Reduced-
